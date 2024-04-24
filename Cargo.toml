@@ -1,2 +1,2 @@
 [workspace]
-members = ["minigrep"]
+members = [ "leetcode","minigrep", "my-vec"]
